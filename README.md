@@ -1,1 +1,1 @@
-# HelloWorldNATS
+Hello World.

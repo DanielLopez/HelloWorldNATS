@@ -6,3 +6,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+#TerraForm Files
+Terraform/
+*.tfstate
+*.tfstate.backup
+*.lock.hci

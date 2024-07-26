@@ -1,4 +1,0 @@
-Terraform/
-*.tfstate
-*.tfstate.backup
-*.lock.hci

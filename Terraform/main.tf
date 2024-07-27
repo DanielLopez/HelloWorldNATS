@@ -20,4 +20,8 @@ resource "docker_container" "nats" {
     internal = 4222
     external = 4222
   }
+  ports {
+    internal = 8222
+    external = 8222
+  }
 }
